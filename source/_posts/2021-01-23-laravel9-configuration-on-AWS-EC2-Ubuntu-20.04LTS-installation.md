@@ -2,7 +2,7 @@
 layout: post
 title: Laravel Configuration on AWS EC2 Ubuntu 20.04LTS Instance Installation - Laravel 9於AWS EC2上的環境設定
 date: 2021-01-22 11:39:17
-tags: Laravel, PHP
+tags: Laravel
 ---
 
 有點久沒做環境設定，最近在寫side project遇到了環境設定。即然Laravel都已經到了Laravel 9了，是該把一些整合設定留下來...
