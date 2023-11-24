@@ -5,7 +5,8 @@ keywords: null
 author: Walile
 language: en
 timezone: Asia/Taipei
-url: https://walile.info
+url: https://blog.walile.info
+root: 
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
